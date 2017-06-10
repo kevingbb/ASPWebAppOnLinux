@@ -21,3 +21,11 @@ pwd
 cd bin
 pwd
 ls -al
+
+cd release
+pwd
+ls -al
+
+cd netcoreapp1.1
+pwd
+ls -al
